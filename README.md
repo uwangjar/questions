@@ -1,7 +1,7 @@
 # questions
  fastapi-postgre
 
- This app required pre set up for postgre DB as below
+ This app required pre set up for postgre DB so table can be created correctly
 
  ![fastapi-choices](https://github.com/user-attachments/assets/26b98e1d-fe08-4520-9778-4d8b1093bce1)
 
