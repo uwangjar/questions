@@ -10,7 +10,7 @@
  - python -m uvicorn main:app --reload
 
 
- For API's document
+ For API's documentation
 
  - http://127.0.0.1:8000/docs#
 
