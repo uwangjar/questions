@@ -12,6 +12,8 @@
 
  This app required pre install of fastapi and uvicorn
 
+ - python3 -m venv env (create virtual env)
+ - Go to Script under env and type activate.bat (for windows only)
  - pip install fastapi sqlalchemy psycopg2-binary
  - pip install uvicorn
 
